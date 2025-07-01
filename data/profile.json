@@ -1,0 +1,78 @@
+{
+  "name": "Pablo Magoga",
+  "photo": "https://avatars.githubusercontent.com/u/94563183?v=4",
+  "job": "Militar no Exército Brasileiro",
+  "location": "Rio Negro - PR",
+  "phone": "(13) 99131-2486",
+  "email": "pmagoga@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/python.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)",
+    "Françês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Desafio de Portfolio",
+      "url": "https://github.com/PMagoga/desafio-portfolio",
+      "github": true
+    },
+    {
+      "name": "Consumo de API do tempo",
+      "url": "https://github.com/PMagoga/30-days-with-JavaScript-projects/tree/main/WeatherAPP%20-%20Day%201",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Militar do Exército Brasileiro",
+      "period": "2009 - até o momento",
+      "description": "Sargento da Arma de Artilharia."
+    },
+    {
+      "name": "Instrutor da Escola de Sargentos das Armas",
+      "period": "2014 - 2017",
+      "description": "Instrutor na formação dos novos Sargentos de Artilharia do Exército Brasileiro."
+    },
+    {
+      "name": "Professor de Física",
+      "period": "2017 - 2020",
+      "description": "Professor de Física no Ensino Médio do Colégio Militar de Manaus."
+    }
+  ]
+}
