@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/python.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/angular.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/react.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-developer-portfolio/refs/heads/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
