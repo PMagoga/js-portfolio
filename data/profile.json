@@ -12,12 +12,12 @@
         "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/python.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/java.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/git.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/angular.png"
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/PMagoga/js-portfolio/refs/heads/main/data/imgs/nodejs.png"
       },
       {
         "name": "React",
@@ -53,8 +53,13 @@
       "github": true
     },
     {
-      "name": "Consumo de API do tempo",
-      "url": "https://github.com/PMagoga/30-days-with-JavaScript-projects/tree/main/WeatherAPP%20-%20Day%201",
+      "name": "Spyder Man no Multiverso",
+      "url": "https://pmagoga.github.io/spyder-man-multiverse/",
+      "github": true
+    },
+    {
+      "name": "Mundo Invertido - Strange Things",
+      "url": "https://pmagoga.github.io/projeto-mundo-invertido/",
       "github": true
     }
   ],
